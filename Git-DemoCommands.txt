@@ -7,7 +7,7 @@ go to respo
 name repository
 create repository
 goto folder created
-add a new file to ittext file
+add a new file to it text file
 write commands in it
 opn file with git bash
 
@@ -32,7 +32,7 @@ git config --global user.email "Email"
 git push origin master 
 popup password enter
 git --
-git checkout -b RAVALIKA
+git checkout -b RAVALIKAgi
 update commands in file 
 same will be repeated
 git pull origin Master 
@@ -46,6 +46,8 @@ create a pull req
 manage if o conflict
 code check in master 
 
+
+vanaja
 
 
 
