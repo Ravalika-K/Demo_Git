@@ -1,0 +1,53 @@
+Git commands
+1.git status
+2.git init
+new folder
+go to githud 
+go to respo
+name repository
+create repository
+goto folder created
+add a new file to ittext file
+write commands in it
+opn file with git bash
+
+
+commands
+88888888888
+git status
+check 
+git init
+again open it
+git status
+git add .
+status
+git remote add origin copy paste link
+this is to add the link btwn the repository and folder
+git status
+git commit -m"initial setup done"
+cmd
+git --version
+git config --global user.name "Name"
+git config --global user.email "Email"
+git push origin master 
+popup password enter
+git --
+git checkout -b RAVALIKA
+update commands in file 
+same will be repeated
+git pull origin Master 
+git checkout -b master
+git checkout master
+git pull origin master
+git checkout RAVALIKA
+git push origin bhavana
+pull request
+create a pull req
+manage if o conflict
+code check in master 
+
+
+
+
+
+
